@@ -1,1 +1,3 @@
+# UBS Pair Trade Competition
+
 The UBS Pair Trade competition requires the selection of a pair of long and short stocks, and thus the stock prices are regressed by calling the yfinance library, and the market scenarios are simulated by Monte Carlo simulation. The model still has many flaws and is only used for learning purposes.
